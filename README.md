@@ -10,10 +10,9 @@ Special thanks to the **MS in Data Science program at the University of the Paci
 ## Environment
 
 This project uses:
-
-```python
-Python 3.12.10
-
+```
+Python == 3.12.10
+```
 
 Special thanks to the **MS in Data Science program at the University of the Pacific** and **Professor Anahita** for providing the resources and guidance that helped me dive deeper into the field of Machine Learning.
 
